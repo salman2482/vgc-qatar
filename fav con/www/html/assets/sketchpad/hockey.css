@@ -1,0 +1,470 @@
+
+
+
+.middleh{
+
+    left: 0px;
+  position: relative;
+}
+.bottomh
+{
+    
+    left: 0px;
+    position: relative;
+    top: 300px;
+}
+.bottomh li:hover
+{
+    background-color: #1969a5;
+    color: white;   
+}
+.toph li:hover
+{
+    background-color: #1969a5;
+    color: white;   
+}
+.middleh li:hover
+{
+    background-color: #1969a5;
+    color: white;   
+}
+
+
+.selecth
+    {
+
+    position: absolute;
+    padding: 10px!important;;
+    margin: 0;
+    width: 55px;
+    height: 49px;
+    left: 0px;
+    top: 10px;
+    /*color: white;*/
+    /*background: #E41C1C!important;*/
+    border: 1px solid  #C0BABA;
+    box-sizing: border-box;
+
+    }
+
+   .eraserh{
+
+    position: absolute;
+    width: 55px;
+    height: 49px;
+    left: 55px;
+    top: 10px;
+    border: 1px solid #C0BABA;
+    box-sizing: border-box;
+
+   }
+
+   .freelineh{
+
+    position: absolute;
+    padding: 2px!important;
+    margin: 0;
+    width: 55px;
+    height: 49px;
+    left: 0px;
+    top: 59px;
+    border: 1px solid #C0BABA;
+    box-sizing: border-box;
+
+   }
+
+.straightlineh{
+
+    position: absolute;
+    padding:  10px!important;
+    margin: 0;
+    width: 55px;
+    height: 49px;
+    left: 55px;
+    top: 59px;
+    border: 1px solid #C0BABA;
+    box-sizing: border-box;
+
+}
+
+.undoh{
+
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    width: 55px;
+    height: 49px;
+    left: 0px;
+    top: 108px;
+    border: 1px solid #C0BABA;
+    border-bottom: 3px solid #1969a5;
+    box-sizing: border-box;
+}
+
+.redoh
+{
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    width: 55px;
+    height: 49px;
+    left: 55px;
+    top: 108px;
+    border: 1px solid #C0BABA;
+    border-bottom: 3px solid #1969a5;
+    box-sizing: border-box;
+
+}
+
+.LW
+{
+
+    padding: 10px;
+    margin: 0;
+    position: absolute;
+    width: 37px;
+    height: 37px;
+    left: 0px;
+    top: 157px;
+    font-family: Lato,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: bold;
+    border: 1px solid #C0BABA;
+    box-sizing: border-box; 
+    font-size: 15px!important;
+}
+
+.hoc-C
+{
+    
+    padding: 10px;
+    margin: 0px;
+    position: absolute;
+    width:36px;
+    height: 37px;
+    left: 37px;
+    top: 157px;
+    font-family: Lato,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: bold;
+    border: 1px solid #C0BABA;
+    box-sizing: border-box;
+        font-size: 15px!important;
+}
+
+.RW
+{
+
+    padding: 10px;
+    margin: 0;
+    position: absolute;
+    width: 37px;
+    height: 37px;
+    left: 73px;
+    top: 157px;
+        font-size: 15px!important;
+    font-family: Lato,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: bold;
+    border: 1px solid #C0BABA;
+    box-sizing: border-box;
+
+}
+
+.LD
+{
+
+    padding: 5px;
+    margin: 0;
+    position: absolute;
+    width: 37px;
+    height: 37px;
+    left: 0px;
+    top: 194px;
+    font-size: 15px!important;
+    font-family: Lato,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: bold;
+    border: 1px solid #C0BABA;
+    box-sizing: border-box;
+}
+
+.G
+{
+
+    padding: 5px;
+    margin: 0;
+    position: absolute;
+    width: 36px;
+    height: 37px;
+    left: 37px;
+    top: 194px;
+        font-size: 15px!important;
+    font-family: Lato,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: bold;
+    border: 1px solid #C0BABA;
+    box-sizing: border-box;
+}
+
+.RD
+{
+
+    padding: 5px;
+    margin: 0;
+    position: absolute;
+    width: 37px;
+    height: 37px;
+    left: 73px;
+    top: 194px;
+    font-size: 15px!important;
+    font-family: Lato,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: bold;
+    border: 1px solid #C0BABA;
+    box-sizing: border-box;
+}
+.F
+{
+
+    padding: 10px;
+    margin: 0;
+    position: absolute;
+    width: 37px;
+    height: 37px;
+    left: 0px;
+    top: 231px;
+        font-size: 20px!important;
+    font-family: Lato,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: bold;
+    border: 1px solid #C0BABA;
+    box-sizing: border-box;
+}
+.D
+{
+
+    padding: 10px;
+    margin: 0;
+    position: absolute;
+    width: 36px;
+    height: 37px;
+    left: 37px;
+    top: 231px;
+        font-size: 9px;
+    font-family: Lato,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: bold;
+    border: 1px solid #C0BABA;
+    box-sizing: border-box;
+}
+
+.hoc-coach
+{
+
+    padding: 10px;
+    margin: 0;
+    position: absolute;
+    width: 36px;
+    height: 37px;
+    left: 73px;
+    top: 231px;
+    font-size: 12px;
+    border: 1px solid #C0BABA;
+    box-sizing: border-box;
+}
+
+.hoc-abc
+{
+
+    padding: 10px;
+    margin: 0;
+    position: absolute;
+    width: 55px;
+    height: 49px;
+    left: 0px;
+    top: 268px;
+    font-family: Lato,Helvetica Neue,Helvetica,Arial,sans-serif;
+    border: 1px solid #C0BABA;
+    border-bottom: 3px solid #1969a5;
+    box-sizing: border-box;
+
+}
+
+.hoc-camera
+{
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    width: 55px;
+    height: 49px;
+    left: 55px;
+    top: 268px;
+    border: 1px solid #C0BABA;
+    border-bottom: 3px solid #1969a5;
+    box-sizing: border-box;
+
+}
+
+.hoc-net
+{
+
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    width: 55px;
+    height: 49px;
+    left: 0px;
+    top: 14px;
+    border: 1px solid #C0BABA;
+    box-sizing: border-box;
+
+}
+.hoc-stick
+{
+
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    width: 55px;
+    height: 49px;
+    left: 55px;
+    top: 14px;
+    border: 1px solid #C0BABA;
+    box-sizing: border-box;
+}
+
+.hoc-cone
+{
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    width: 55px;
+    height: 49px;
+    left: 0px;
+    top: 63px;
+    border: 1px solid #C0BABA;
+    box-sizing: border-box;
+}
+
+.hoc-tire
+{
+    
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    width: 55px;
+    height: 49px;
+    left: 55px;
+    top: 63px;
+    border: 1px solid #C0BABA;
+    box-sizing: border-box;
+    background color:black;
+
+}
+.hoc-puck
+{
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    width: 55px;
+    height: 49px;
+    left: 0px;
+    top: 112px;
+    border: 1px solid #C0BABA;
+    box-sizing: border-box;
+}
+
+.hoc-pucks
+{
+    
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    width: 55px;
+    height: 49px;
+    left: 55px;
+    top: 112px;
+    border: 1px solid #C0BABA;
+    box-sizing: border-box;
+    background color:black;
+
+}
+
+.hoc-triangle
+{
+
+    padding: 10px;
+    margin: 0;
+    position: absolute;
+    width: 55px;
+    height: 49px;
+    left: 0px;
+    top: 161px;
+    border: 1px solid #C0BABA;
+    box-sizing: border-box;
+
+}
+.hoc-X
+{
+
+    padding: 10px;
+    margin: 0;
+    position: absolute;
+    width: 55px;
+    height: 49px;
+    left: 55px;
+    top: 161px;
+    border: 1px solid #C0BABA;
+    box-sizing: border-box;
+}
+
+.hoc-square
+{
+
+    padding:10px;
+    margin: 0;
+    position: absolute;
+    width: 55px;
+    height: 49px;
+    left: 0px;
+    top: 210px;
+    border: 1px solid #C0BABA;
+    box-sizing: border-box;
+
+}
+.hoc-circle
+{
+
+    padding:10px;
+    margin: 0;
+    position: absolute;
+    width: 55px;
+    height: 49px;
+    left: 55px;
+    top: 210px;
+    border: 1px solid #C0BABA;
+    box-sizing: border-box;
+
+}
+.hoc-border
+{
+
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    width: 55px;
+    height: 49px;
+    left: 0px;
+    top: 259px;
+    font-size: 15px;
+    border: 1px solid #C0BABA;
+    box-sizing: border-box;
+    border-bottom: 3px solid #1969a5;
+}
+.hoc-passthrough
+{
+
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    width: 55px;
+    height: 49px;
+    left: 55px;
+    top: 259px;
+    border: 1px solid #C0BABA;
+    box-sizing: border-box;
+    border-bottom: 3px solid #1969a5;
+}

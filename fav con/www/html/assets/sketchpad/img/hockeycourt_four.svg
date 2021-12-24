@@ -1,0 +1,59 @@
+<svg width="654" height="327" viewBox="0 0 654 327" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="654" height="327" fill="#BCBDC0"/>
+<rect x="1" y="1" width="652" height="325" rx="100" fill="white"/>
+<path d="M328.303 362.66C308.323 362.678 292.819 348.204 292.795 330.46C292.77 312.736 308.319 298.802 328.32 298.784C348.351 298.766 364.998 312.753 365.023 330.452C365.047 348.161 348.321 362.642 328.303 362.66Z" stroke="#D60A0A" stroke-width="1.5"/>
+<path d="M328.048 203.753C305.285 203.774 286.925 186.551 286.896 165.423C286.867 144.295 305.18 127.039 327.942 127.018C350.705 126.998 369.066 144.221 369.095 165.349C369.124 186.476 350.811 203.732 328.048 203.753Z" stroke="#056888" stroke-width="2"/>
+<line x1="41" y1="21" x2="41" y2="306" stroke="#D60A0A" stroke-width="2"/>
+<line y1="-1" x2="285" y2="-1" transform="matrix(0 1 1 0 614.241 21)" stroke="#D60A0A" stroke-width="2"/>
+<line y1="-2.5" x2="324.709" y2="-2.5" transform="matrix(0.00137448 0.999999 -1 0.000905993 174 2)" stroke="#044480" stroke-width="5"/>
+<line y1="-2.5" x2="324.709" y2="-2.5" transform="matrix(-0.00137448 0.999999 1 0.000905993 480.241 2)" stroke="#044480" stroke-width="5"/>
+<line y1="-2" x2="157.878" y2="-2" transform="matrix(0.00137448 0.999999 -1 0.000905993 327 1.52881)" stroke="#D60A0A" stroke-width="4" stroke-dasharray="8 8"/>
+<line y1="-2" x2="157.878" y2="-2" transform="matrix(0.00137448 0.999999 -1 0.000905993 327 168.529)" stroke="#D60A0A" stroke-width="4" stroke-dasharray="8 8"/>
+<path d="M327.772 0.836243L100.77 1.0419C45.5417 1.09194 0.831785 45.904 0.907695 101.132L1.07963 226.222C1.15554 281.451 45.9885 326.182 101.217 326.132L328.219 325.926" stroke="black" stroke-width="2"/>
+<path d="M326.469 1L553.241 1.20545C608.469 1.25549 653.179 46.0675 653.103 101.296L652.932 226.005C652.856 281.233 608.023 325.964 552.795 325.914L326.023 325.709" stroke="black" stroke-width="2"/>
+<path d="M42.0623 186.337C54.7671 186.325 65.0524 176.172 65.0352 163.658C65.018 151.144 54.7048 141.009 42 141.021" stroke="#D60A0A" stroke-width="2"/>
+<path d="M612.179 186.337C599.474 186.325 589.188 176.172 589.206 163.658C589.223 151.144 599.536 141.009 612.241 141.021" stroke="#D60A0A" stroke-width="2"/>
+<path d="M34.9868 149.773C31.1279 149.776 28.0046 153.369 28.0107 157.798C28.0168 162.227 31.15 165.815 35.0089 165.811" stroke="#D60A0A" stroke-width="1.5"/>
+<path d="M619.254 149.773C623.113 149.776 626.236 153.369 626.23 157.798C626.224 162.227 623.091 165.815 619.232 165.811" stroke="#D60A0A" stroke-width="1.5"/>
+<path d="M34.9871 161C31.1283 161.003 28.005 164.644 28.0112 169.131C28.0173 173.618 31.1506 177.252 35.0095 177.249" stroke="#D60A0A" stroke-width="1.5"/>
+<path d="M619.254 161C623.113 161.003 626.236 164.644 626.23 169.131C626.224 173.618 623.09 177.252 619.231 177.249" stroke="#D60A0A" stroke-width="1.5"/>
+<circle r="29" transform="matrix(0.00137448 0.999999 -1 0.000905993 95.0412 91.0272)" stroke="#D60A0A" stroke-width="2"/>
+<circle r="29" transform="matrix(-0.00137448 0.999999 1 0.000905993 559.2 91.0272)" stroke="#D60A0A" stroke-width="2"/>
+<circle r="29" transform="matrix(0.00137448 0.999999 -1 0.000905993 95.0412 239.027)" stroke="#D60A0A" stroke-width="2"/>
+<circle r="29" transform="matrix(-0.00137448 0.999999 1 0.000905993 559.2 239.027)" stroke="#D60A0A" stroke-width="2"/>
+<circle r="4" transform="matrix(0.00137448 0.999999 -1 0.000905993 95.0055 91.0036)" fill="#D60A0A"/>
+<circle r="4" transform="matrix(-0.00137448 0.999999 1 0.000905993 559.235 91.0036)" fill="#D60A0A"/>
+<circle r="4" transform="matrix(0.00137448 0.999999 -1 0.000905993 227.005 91.0036)" fill="#D60A0A"/>
+<circle r="4" transform="matrix(-0.00137448 0.999999 1 0.000905993 427.235 91.0036)" fill="#D60A0A"/>
+<circle r="4" transform="matrix(0.00137448 0.999999 -1 0.000905993 95.0055 239.004)" fill="#D60A0A"/>
+<circle r="4" transform="matrix(-0.00137448 0.999999 1 0.000905993 559.235 239.004)" fill="#D60A0A"/>
+<circle r="4" transform="matrix(0.00137448 0.999999 -1 0.000905993 227.005 239.004)" fill="#D60A0A"/>
+<circle r="4" transform="matrix(-0.00137448 0.999999 1 0.000905993 427.235 239.004)" fill="#D60A0A"/>
+<line y1="-0.75" x2="7.32426" y2="-0.75" transform="matrix(0 1 -1 -0.000468483 87 56)" stroke="#D60A0A" stroke-width="1.5"/>
+<line y1="-0.75" x2="7.32426" y2="-0.75" transform="matrix(0 1 1 -0.000468483 567.241 56)" stroke="#D60A0A" stroke-width="1.5"/>
+<line y1="-0.75" x2="7.32426" y2="-0.75" transform="matrix(0 1 -1 -0.000468483 100 56)" stroke="#D60A0A" stroke-width="1.5"/>
+<line y1="-0.75" x2="7.32426" y2="-0.75" transform="matrix(0 1 1 -0.000468483 554.241 56)" stroke="#D60A0A" stroke-width="1.5"/>
+<line y1="-0.75" x2="7.32426" y2="-0.75" transform="matrix(0 1 -1 -0.000468483 100 119)" stroke="#D60A0A" stroke-width="1.5"/>
+<line y1="-0.75" x2="7.32426" y2="-0.75" transform="matrix(0 1 1 -0.000468483 554.241 119)" stroke="#D60A0A" stroke-width="1.5"/>
+<line y1="-0.75" x2="7.32426" y2="-0.75" transform="matrix(0 1 -1 -0.000468483 87 119)" stroke="#D60A0A" stroke-width="1.5"/>
+<line y1="-0.75" x2="7.32426" y2="-0.75" transform="matrix(0 1 1 -0.000468483 567.241 119)" stroke="#D60A0A" stroke-width="1.5"/>
+<line y1="-0.75" x2="7.32426" y2="-0.75" transform="matrix(0 1 -1 -0.000468483 87 204)" stroke="#D60A0A" stroke-width="1.5"/>
+<line y1="-0.75" x2="7.32426" y2="-0.75" transform="matrix(0 1 1 -0.000468483 567.241 204)" stroke="#D60A0A" stroke-width="1.5"/>
+<line y1="-0.75" x2="7.32426" y2="-0.75" transform="matrix(0 1 -1 -0.000468483 87 267)" stroke="#D60A0A" stroke-width="1.5"/>
+<line y1="-0.75" x2="7.32426" y2="-0.75" transform="matrix(0 1 1 -0.000468483 567.241 267)" stroke="#D60A0A" stroke-width="1.5"/>
+<line y1="-0.75" x2="7.32426" y2="-0.75" transform="matrix(0 1 -1 -0.000468483 99 267)" stroke="#D60A0A" stroke-width="1.5"/>
+<line y1="-0.75" x2="7.32426" y2="-0.75" transform="matrix(0 1 1 -0.000468483 555.241 267)" stroke="#D60A0A" stroke-width="1.5"/>
+<line y1="-0.75" x2="7.32426" y2="-0.75" transform="matrix(0 1 -1 -0.000468483 99 204)" stroke="#D60A0A" stroke-width="1.5"/>
+<line y1="-0.75" x2="7.32426" y2="-0.75" transform="matrix(0 1 1 -0.000468483 555.241 204)" stroke="#D60A0A" stroke-width="1.5"/>
+<rect width="79.9839" height="56.1326" transform="matrix(0.00137448 0.999999 -1 0.000905993 333.131 326.746)" fill="white"/>
+<rect width="79.9839" height="56.1326" transform="matrix(-0.00137448 0.999999 1 0.000905993 321.11 326.746)" fill="white"/>
+<circle r="2" transform="matrix(0.00137448 0.999999 -1 0.000905993 329.003 164.002)" fill="#09A5D7"/>
+<rect x="-0.75" y="0.75" width="15.5" height="27.5" transform="matrix(-1 0 0 1 50.5 149)" stroke="#D60A0A" stroke-width="1.5"/>
+<rect x="602.991" y="149.75" width="15.5" height="27.5" stroke="#D60A0A" stroke-width="1.5"/>
+<ellipse rx="1.5" ry="4" transform="matrix(-1 0 0 1 8.5 157)" fill="white"/>
+<ellipse cx="645.741" cy="157" rx="1.5" ry="4" fill="white"/>
+<rect width="14.3408" height="7.37642" transform="matrix(0.00137448 0.999999 -1 0.000905993 37.4872 154.187)" fill="white"/>
+<rect width="14.3408" height="7.37642" transform="matrix(-0.00137448 0.999999 1 0.000905993 616.754 154.187)" fill="white"/>
+<rect width="25.9996" height="3.89591" transform="matrix(0.00137448 0.999999 -1 0.000905993 38.764 150.497)" fill="white"/>
+<rect width="25.9996" height="3.89591" transform="matrix(-0.00137448 0.999999 1 0.000905993 615.477 150.497)" fill="white"/>
+</svg>

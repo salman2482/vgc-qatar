@@ -1,0 +1,130 @@
+.new_drill_header {
+    margin: 0px;
+    font-family: "Nunito Sans", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 16px;
+    width: 100%;
+    z-index: 9999;
+    position: fixed;
+}
+.new_drill_header header {
+    padding: 0 10px;
+    box-shadow: 0 1px 0 0 rgb(139 141 157 / 5%), 0 0 1px 0 rgb(65 71 108 / 15%);
+    clear: both;
+    display: table;
+    content: " ";
+    width: 100%;
+    box-sizing: border-box;
+    background-color: #fff;
+}
+.new_drill_header .container,.container-fluid {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10px;
+    padding-right: 10px
+}
+.new_drill_header .container {
+    max-width: 1200px;
+    display: flex;
+}
+.new_drill_header ul li {
+    list-style: none;
+}
+.new_drill_header .primary-menu  {
+    display: inline-block;
+}
+.new_drill_header  .primary-menu li {
+    float: left;
+    display: inline-block;
+    height: 76px;
+    line-height: 76px;
+    padding: 0 16px;
+    position: relative;
+    vertical-align: middle
+}
+.new_drill_header  .primary-menu li a {
+     color: #404041;
+     text-decoration: none;
+     height: 76px;
+     display: block;
+}
+.new_drill_header  .primary-menu a {
+      font-size: .875rem;
+     letter-spacing: -.1px;
+     font-weight: 400;
+}
+.new_drill_header  .site-branding {
+     margin: auto;
+     padding: 0 20px 
+}
+/*img {
+     border: 0;
+     font-style: italic;
+     height: auto;
+     max-width: 100%;
+     vertical-align: middle;
+}
+*/
+ .new_drill_header  #site-logo img {
+     max-height: 76px;
+     min-height: 60px;
+     width: auto;
+     padding: 0px 0;
+     object-fit: contain;
+     max-width: 262px;
+}
+ .new_drill_header  .pl-0 {
+     padding-left: 0px;
+}
+.new_drill_header  .pt-1 {
+     padding-top: 1px;
+}
+.new_drill_header  .pl-10 {
+     padding-left: 10px;
+}
+.new_drill_header  .primary-menu>li:first-child {
+     padding-left: 10px;
+}
+.new_drill_header  .m-0 {
+     margin: 0px;
+}
+.new_drill_header  .header-grid {
+     display: grid;
+     grid-template-columns: 33% 33% 33%;
+     max-width: 100%;
+}
+.new_drill_header  .drill-my-account-avatar {
+     border: 0px;
+     padding: 0px;
+     width: 38px;
+     height: 38px;
+     border-radius: 50%;
+     font-size: 14px;
+}
+.new_drill_header  .f-14 {
+     font-size: 14px;
+}
+.new_drill_header  .drill-my-account-avatar:focus {
+     box-shadow: 0 0 0 0.1rem #0062cc!important;
+}
+.new_drill_header  .dropdown-divider {
+     margin: 0px;
+}
+.new_drill_header  .navbar-right-section {
+     display: flex;
+     justify-content: flex-end;
+}
+.new_drill_header  .pt-20 {
+     padding-top: 20px;
+}
+.mt-0 {
+    margin-top: 0px;
+}
+.mr-10 {
+    margin-right: 10px;
+}
+.primary-menu li a:hover {
+    color: #26af60;
+    cursor: pointer;
+}

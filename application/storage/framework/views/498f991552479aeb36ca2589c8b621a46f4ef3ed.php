@@ -1,0 +1,1 @@
+<?php /**PATH H:\wamp64\www\application\resources\views/pages/authentication/modal/relogin.blade.php ENDPATH**/ ?>

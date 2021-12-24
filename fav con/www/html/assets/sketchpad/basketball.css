@@ -1,0 +1,557 @@
+
+.containe{
+
+	position: relative;
+	width: 100vh;
+	height: 50vw;
+	background: #FFFFFF;
+}
+
+.top h1
+{
+
+	font-size: 17px;
+	text-align: center;
+	width: 82px;
+	font-weight: 500;
+	padding: 14px;
+	height: 20px;
+	margin-top: -140px;
+	margin-left: -40px;
+	background: #1969a5;
+    color: #fff;
+    font-family: Lato,Helvetica Neue,Helvetica,Arial,sans-serif;
+
+}
+
+.column{
+
+	margin: 0;
+	position: fixed;
+	width: 120px;
+	left: 0px;
+	top: 120px;
+	z-index: 999;
+}
+
+.ground{
+
+	margin: 0;
+	position: absolute;
+	width: 50vw;
+	height: 55vh;
+	left: 241px;
+	top: 200px;
+	text-align: center;
+	box-sizing: border-box;
+}
+
+.top
+{
+	margin: 0;
+	margin-left: 0px;
+	position: absolute;
+	width: 100px;
+	height:150px;
+	left: 0px;
+	top: 120px;
+
+}
+.middle{
+
+	margin-left: 0px;
+	position:fixed; 
+	width: 100px;
+	top:308px;
+	box-sizing: border-box;
+    left: 0px;
+    z-index: 999;
+}
+.bottom
+{
+	
+	margin-left: 0px;
+	position:fixed; 
+	width: 100px;
+	top:468px;
+	box-sizing: border-box;
+	left: 0px;
+	z-index: 999;
+}
+
+  ul li {
+
+     text-align: center;
+     background-color: #fff;
+     color: #999;
+     list-style: none;
+     border-color: #e4e1e1;
+     padding: 5px;   
+   	 font-size: 20px;
+     
+}
+.straightline i{
+ padding: 15px;   
+
+}
+
+
+img{
+	margin-top: 10px;
+	padding: 0px;
+	
+}
+
+.select i:hover{
+	background-color: #1969a5;
+	color: white;
+}
+.eraser i:hover{
+	background-color: #1969a5;
+	color: white;
+}
+.straightline i:hover{
+	background-color: #1969a5;
+	color: white;
+}
+.undo i:hover{
+	background-color: #1969a5;
+	color: white;
+}
+.redo i:hover{
+	background-color: #1969a5;
+	color: white;
+}
+.camera i:hover{
+	background-color: #1969a5;
+	color: white;
+}
+.ball i:hover{
+	background-color: #1969a5;
+	color: white;
+}
+.balls i:hover{
+	background-color: #1969a5;
+	color: white;
+}
+.triangle i:hover{
+	background-color: #1969a5;
+	color: white;
+}
+.circle i:hover{
+	background-color: #1969a5;
+	color: white;
+}
+.square i:hover{
+	background-color: #1969a5;
+	color: white;
+}
+.X i:hover{
+	background-color: #1969a5;
+	color: white;
+}
+.select i{
+	padding: 10px;
+}
+.eraser i{
+	padding: 10px;
+}
+.straightline i{
+	padding: 10px;
+}
+.undo i{
+	padding: 10px;
+}
+.redo i{
+	padding: 10px;
+}
+.camera i{
+	padding: 10px;
+}
+.ball i{
+	padding: 10px;
+}
+.balls i{
+	padding: 10px;
+}
+.triangle i{
+	padding: 10px;
+}
+.circle i{
+	padding: 10px;
+}
+.square i{
+	padding: 10px;
+}
+.X i{
+	padding: 10px;
+}
+.bottom li:hover
+{
+ 	background-color: #1969a5;
+	color: white;	
+}
+.top li:hover
+{
+ 	background-color: #1969a5;
+	color: white;	
+}
+.middle li:hover
+{
+ 	background-color: #1969a5;
+	color: white;	
+}
+
+
+ #play-ground img {
+    width: 900px!important;
+    height: 500px!important;
+    vertical-align: right;
+    margin-top: -20px;
+            }
+
+.select
+    {
+
+    position: absolute;
+    padding: 0;
+    margin: 0;
+	width: 55px;
+	height: 49px;
+	left: 0px;
+	top: -76px;
+	color: white;
+	background: #E41C1C!important;
+	border: 1px solid  #C0BABA;
+	box-sizing: border-box;
+
+    }
+
+   .eraser{
+
+   	position: absolute;
+	width: 55px;
+	height: 49px;
+	left: 55px;
+	top: -76px;
+	border: 1px solid #C0BABA;
+	box-sizing: border-box;
+
+   }
+
+   .freeline{
+
+   	position: absolute;
+   	padding: 0;
+	margin: 0;
+	width: 55px;
+	height: 49px;
+	left: 0px;
+	top: -28px;
+	border: 1px solid #C0BABA;
+	box-sizing: border-box;
+
+   }
+
+.straightline{
+
+	position: absolute;
+	padding: 0;
+    margin: 0;
+	width: 55px;
+	height: 49px;
+	left: 55px;
+	top: -28px;
+	border: 1px solid #C0BABA;
+	box-sizing: border-box;
+
+}
+
+.undo{
+
+	position: absolute;
+	padding: 0;
+    margin: 0;
+	width: 55px;
+	height: 49px;
+	left: 0px;
+	top: 20px;
+	border: 1px solid #C0BABA;
+	border-bottom: 3px solid #1969a5;
+	box-sizing: border-box;
+}
+
+.redo
+{
+	padding: 0;
+    margin: 0;
+	position: absolute;
+	width: 55px;
+	height: 49px;
+	left: 55px;
+	top: 20px;
+	border: 1px solid #C0BABA;
+	border-bottom: 3px solid #1969a5;
+	box-sizing: border-box;
+
+}
+
+.PG
+{
+
+	padding: 10px;
+    margin: 0;
+	position: absolute;
+	width: 55px;
+	height: 49px;
+	left: 0px;
+	top: 0px;
+    font-family: Lato,Helvetica Neue,Helvetica,Arial,sans-serif;
+	font-weight: bold;
+	border: 1px solid #C0BABA;
+	box-sizing: border-box;	
+}
+
+.SG
+{
+	padding: 10px;
+    margin: 0;
+	position: absolute;
+	width:55px;
+	height: 49px;
+	left: 55px;
+	top: 0px;
+ 	font-family: Lato,Helvetica Neue,Helvetica,Arial,sans-serif;
+	font-weight: bold;
+	border: 1px solid #C0BABA;
+	box-sizing: border-box;
+}
+
+.PF
+{
+
+	padding: 10px;
+    margin: 0;
+	position: absolute;
+	width: 55px;
+	height: 49px;
+	left: 0px;
+	top: 49px;
+ 	font-family: Lato,Helvetica Neue,Helvetica,Arial,sans-serif;
+	font-weight: bold;
+	border: 1px solid #C0BABA;
+	box-sizing: border-box;
+
+}
+
+.SF
+{
+
+	padding: 10px;
+    margin: 0;
+	position: absolute;
+	width: 55px;
+	height: 49px;
+	left: 55px;
+	top: 49px;
+ 	font-family: Lato,Helvetica Neue,Helvetica,Arial,sans-serif;
+	font-weight: bold;
+	border: 1px solid #C0BABA;
+	box-sizing: border-box;
+}
+
+.C
+{
+
+	padding: 10px;
+    margin: 0;
+	position: absolute;
+	width: 55px;
+	height: 49px;
+	left: 0px;
+	top: 98px;
+ 	font-family: Lato,Helvetica Neue,Helvetica,Arial,sans-serif;
+	font-weight: bold;
+	border: 1px solid #C0BABA;
+	box-sizing: border-box;
+}
+
+
+
+.coach
+{
+
+	padding: 10px;
+    margin: 0;
+	position: absolute;
+	width: 55px;
+	height: 49px;
+	left: 55px;
+	top: 98px;
+	border: 1px solid #C0BABA;
+	box-sizing: border-box;
+}
+
+.abc
+{
+
+	padding: 10px;
+    margin: 0;
+	position: absolute;
+	width: 55px;
+	height: 49px;
+	left: 0px;
+	top: 147px;
+ 	font-family: Lato,Helvetica Neue,Helvetica,Arial,sans-serif;
+	border: 1px solid #C0BABA;
+	border-bottom: 3px solid #1969a5;
+	box-sizing: border-box;
+
+}
+
+.camera
+{
+	padding: 0;
+    margin: 0;
+	position: absolute;
+	width: 55px;
+	height: 49px;
+	left: 55px;
+	top: 147px;
+	border: 1px solid #C0BABA;
+	border-bottom: 3px solid #1969a5;
+	box-sizing: border-box;
+
+}
+
+.hoop
+{
+
+	padding: 0;
+    margin: 0;
+	position: absolute;
+	width: 55px;
+	height: 49px;
+	left: 0px;
+	top: 36px;
+	border: 1px solid #C0BABA;
+	box-sizing: border-box;
+
+}
+.balls
+{
+
+	padding: 0;
+    margin: 0;
+	position: absolute;
+	width: 55px;
+	height: 49px;
+	left: 55px;
+	top: 36px;
+	border: 1px solid #C0BABA;
+	box-sizing: border-box;
+}
+
+.cone
+{
+	padding: 0;
+    margin: 0;
+	position: absolute;
+	width: 55px;
+	height: 49px;
+	left: 0px;
+	top: 85px;
+	border: 1px solid #C0BABA;
+	box-sizing: border-box;
+}
+
+.ball
+{
+	
+	padding: 0;
+    margin: 0;
+	position: absolute;
+	width: 55px;
+	height: 49px;
+	left: 55px;
+	top: 85px;
+	border: 1px solid #C0BABA;
+	box-sizing: border-box;
+
+}
+
+
+.triangle
+{
+
+	padding: 0;
+    margin: 0;
+	position: absolute;
+	width: 55px;
+	height: 49px;
+	left: 0px;
+	top: 134px;
+	border: 1px solid #C0BABA;
+	box-sizing: border-box;
+
+}
+.X
+{
+
+	padding: 0;
+    margin: 0;
+	position: absolute;
+	width: 55px;
+	height: 49px;
+	left: 55px;
+	top: 134px;
+	border: 1px solid #C0BABA;
+	
+	box-sizing: border-box;
+}
+
+.square
+{
+
+	padding: 0;
+    margin: 0;
+	position: absolute;
+	width: 55px;
+	height: 49px;
+	left: 0px;
+	top: 183px;
+	border: 1px solid #C0BABA;
+	
+	box-sizing: border-box;
+
+}
+.circle
+{
+
+	padding: 0;
+    margin: 0;
+	position: absolute;
+	width: 55px;
+	height: 49px;
+	left: 55px;
+	top: 183px;
+	border: 1px solid #C0BABA;
+	box-sizing: border-box;
+
+}
+.d-man
+{
+
+	padding: 0;
+    margin: 0;
+	position: absolute;
+	width: 55px;
+	height: 49px;
+	left: 0px;
+	top: 232px;
+	font-size: 15px;
+	border: 1px solid #C0BABA;
+	box-sizing: border-box;
+border-bottom: 3px solid #1969a5;
+}
+

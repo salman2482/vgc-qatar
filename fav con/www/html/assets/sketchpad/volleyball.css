@@ -1,0 +1,365 @@
+
+
+
+.bottomv li:hover
+{
+ 	background-color: #1969a5;
+	color: white;	
+}
+.top li:hover
+{
+ 	background-color: #1969a5;
+	color: white;	
+}
+.middlev li:hover
+{
+ 	background-color: #1969a5;
+	color: white;	
+}
+
+
+
+.selectv
+    {
+
+   position: absolute;
+    padding: 0;
+    margin: 0;
+	width: 55px;
+	height: 49px;
+	left: 0px;
+	top: -116px;
+	/*color: white;*/
+	/*background: #E41C1C!important;*/
+	border: 1px solid  #C0BABA;
+	box-sizing: border-box;
+
+    }
+
+   .eraserv{
+   	padding: 1px;
+   	position: absolute;
+	width: 55px;
+	height: 49px;
+	left: 55px;
+	top: -116px;
+	border: 1px solid #C0BABA;
+	box-sizing: border-box;
+
+
+   }
+
+   .freelinev{
+
+   	position: absolute;
+   	padding: 0;
+	margin: 0;
+	width: 55px;
+	height: 49px;
+	left: 0px;
+	top: -67px;
+	border: 1px solid #C0BABA;
+	box-sizing: border-box;
+
+   }
+
+.straightlinev{
+
+	position: absolute;
+	padding: 5px;
+    margin: 0;
+	width: 55px;
+	height: 49px;
+	left: 55px;
+	top: -67px;
+	border: 1px solid #C0BABA;
+	box-sizing: border-box;
+
+}
+
+.undov{
+
+	position: absolute;
+	padding: 0;
+    margin: 0;
+	width: 55px;
+	height: 49px;
+	left: 0px;
+	top: -18px;
+	border: 1px solid #C0BABA;
+	border-bottom: 3px solid #1969a5;
+	box-sizing: border-box;
+}
+
+.redov
+{
+	padding: 0;
+    margin: 0;
+	position: absolute;
+	width: 55px;
+	height: 49px;
+	left: 55px;
+	top: -18px;
+	border: 1px solid #C0BABA;
+	border-bottom: 3px solid #1969a5;
+	box-sizing: border-box;
+
+}
+
+.Sv
+{
+
+	padding: 10px;
+    margin: 0;
+	position: absolute;
+	width: 55px;
+	height: 49px;
+	left: 0px;
+	top: 170px;
+    font-family: Lato,Helvetica Neue,Helvetica,Arial,sans-serif;
+	font-weight: bold;
+	border: 1px solid #C0BABA;
+	box-sizing: border-box;	
+}
+
+.L
+{
+	padding: 10px;
+    margin: 0;
+	position: absolute;
+	width:55px;
+	height: 49px;
+	left: 55px;
+	top: 170px;
+ 	font-family: Lato,Helvetica Neue,Helvetica,Arial,sans-serif;
+	font-weight: bold;
+	border: 1px solid #C0BABA;
+	box-sizing: border-box;
+}
+
+.MBv
+{
+
+	padding:10px;
+    margin: 0;
+	position: absolute;
+	width: 55px;
+	height: 49px;
+	left: 0px;
+	top: 219px;
+ 	font-family: Lato,Helvetica Neue,Helvetica,Arial,sans-serif;
+	font-weight: bold;
+	border: 1px solid #C0BABA;
+	box-sizing: border-box;
+
+}
+
+.OUTv
+{
+
+	padding:10px;
+    margin: 0;
+	position: absolute;
+	width: 55px;
+	height: 49px;
+	left: 55px;
+	top: 219px;
+
+ 	font-family: Lato,Helvetica Neue,Helvetica,Arial,sans-serif;
+	font-weight: bold;
+	border: 1px solid #C0BABA;
+	box-sizing: border-box;
+}
+
+.OPPv
+{
+
+	padding: 10px;
+    margin: 0;
+	position: absolute;
+	width: 55px;
+	height: 49px;
+	left: 0px;
+	top: 268px;
+ 	font-family: Lato,Helvetica Neue,Helvetica,Arial,sans-serif;
+	font-weight: bold;
+	border: 1px solid #C0BABA;
+	box-sizing: border-box;
+}
+
+
+
+.coachv
+{
+
+	padding: 10px;
+    margin: 0;
+	position: absolute;
+	width: 55px;
+	height: 49px;
+	left: 55px;
+	top: 268px;
+	border: 1px solid #C0BABA;
+	box-sizing: border-box;
+}
+
+.abcv
+{
+
+	padding: 10px;
+    margin: 0;
+	position: absolute;
+	width: 55px;
+	height: 49px;
+	left: 0px;
+	top: 317px;
+ 	font-family: Lato,Helvetica Neue,Helvetica,Arial,sans-serif;
+	border: 1px solid #C0BABA;
+	border-bottom: 3px solid #1969a5;
+	box-sizing: border-box;
+
+}
+
+.camerav
+{
+	padding: 0;
+    margin: 0;
+	position: absolute;
+	width: 55px;
+	height: 49px;
+	left: 55px;
+	top: 317px;
+	border: 1px solid #C0BABA;
+	border-bottom: 3px solid #1969a5;
+	box-sizing: border-box;
+
+}
+
+.hoopv
+{
+
+	padding: 0;
+    margin: 0;
+	position: absolute;
+	width: 55px;
+	height: 49px;
+	left: 0px;
+	top: 365px;
+	border: 1px solid #C0BABA;
+	box-sizing: border-box;
+
+}
+.ballsv
+{
+
+	padding: 0;
+    margin: 0;
+	position: absolute;
+	width: 55px;
+	height: 49px;
+	left: 55px;
+	top: 365px;
+	border: 1px solid #C0BABA;
+	box-sizing: border-box;
+}
+
+.conev
+{
+	padding: 0;
+    margin: 0;
+	position: absolute;
+	width: 55px;
+	height: 49px;
+	left: 0px;
+	top: 414px;
+	border: 1px solid #C0BABA;
+	box-sizing: border-box;
+}
+
+.ballv
+{
+	
+	padding: 0;
+    margin: 0;
+	position: absolute;
+	width: 55px;
+	height: 49px;
+	left: 55px;
+	top: 414px;
+	border: 1px solid #C0BABA;
+	box-sizing: border-box;
+
+}
+
+
+.trianglev
+{
+
+	padding: 0;
+    margin: 0;
+	position: absolute;
+	width: 55px;
+	height: 49px;
+	left: 0px;
+	top: 463px;
+	border: 1px solid #C0BABA;
+	box-sizing: border-box;
+
+}
+.Xv
+{
+
+	padding: 0;
+    margin: 0;
+	position: absolute;
+	width: 55px;
+	height: 49px;
+	left: 55px;
+	top: 463px;
+	border: 1px solid #C0BABA;
+	box-sizing: border-box;
+}
+
+.squarev
+{
+
+	padding: 0;
+    margin: 0;
+	position: absolute;
+	width: 55px;
+	height: 49px;
+	left: 0px;
+	top: 512px;
+	border: 1px solid #C0BABA;
+	box-sizing: border-box;
+
+}
+.circlev
+{
+
+	padding: 0;
+    margin: 0;
+	position: absolute;
+	width: 55px;
+	height: 49px;
+	left: 55px;
+	top: 512px;
+	border: 1px solid #C0BABA;
+	box-sizing: border-box;
+
+}
+.re-bounder
+{
+
+	padding: 0;
+    margin: 0;
+	position: absolute;
+	width: 56px;
+	height: 49px;
+	left: 0px;
+	top: 561px;
+	font-size: 15px;
+	border: 1px solid #C0BABA;
+	box-sizing: border-box;
+	border-bottom: 3px solid #1969a5;
+}
